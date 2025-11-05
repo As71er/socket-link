@@ -1,4 +1,4 @@
-# socket-link
+# [Practice] socket-link
 
 With the objective of understanding the very basics of TCP prior to understanding HTTP from the ground up, there are two simple application with two files each that implement a client–server architecture. Thanks to the `net` module from Node.js, multiple clients can send messages over the socket stream where they buffer chunks of information.
 
