@@ -1,4 +1,4 @@
-# socket-link
+# Socket Link
 
 Understanding part of TCP, there are two applications that implement a client–server architecture. The idea is to have multiple clients which send messages over a socket stream where they buffer chunks of information for two scenarios.
 
